@@ -54,6 +54,14 @@ AWS means
 - [X] Amazon Web Services
 - [ ] Option 2
 - [ ] Option 3
+
+Table
+
+|Name|College|Department|
+|----|---|---|
+|Satwika|AITAM|CSE|
 ---
 [^1]: Thankful
+
+
 
