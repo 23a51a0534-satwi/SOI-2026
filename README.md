@@ -37,5 +37,16 @@ print(a+b)
 
 ![Image](https://github.com/user-attachments/assets/69f71aa6-6be6-40b4-a7d8-e1e2e83e105d)
 
+Ordered List
+1. first
+2. second
+3. third
+
+Unorder List
+- first
+- second
++ third
++ fourth
+
 
 
