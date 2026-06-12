@@ -35,7 +35,6 @@ print(a+b)
 
 [Google](https://www.google.com/)
 
-![Image](<img width="333" height="222" alt="girl" src="https://github.com/user-attachments/assets/4b6ed158-7b43-4a30-8bac-72b4afa2e158" />
-)
+![Image]("C:\Users\satwi\Downloads\girl.jpg")
 
 
