@@ -49,6 +49,11 @@ Unorder List
 + fourth
 
 Greatful[^1]
+
+AWS means
+- [X] Amazon Web Services
+- [ ] Option 2
+- [ ] Option 3
 ---
 [^1]: Thankful
 
