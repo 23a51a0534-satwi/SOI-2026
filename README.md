@@ -35,6 +35,7 @@ print(a+b)
 
 [Google](https://www.google.com/)
 
-![Image]("C:\Users\satwi\Downloads\girl.jpg")
+![Image](C:\Users\satwi\Downloads\girl.jpg)
+
 
 
